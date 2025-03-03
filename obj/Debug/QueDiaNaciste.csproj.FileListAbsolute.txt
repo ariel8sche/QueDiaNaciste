@@ -1,0 +1,7 @@
+C:\Users\ariel\source\repos\QueDiaNaciste\bin\Debug\QueDiaNaciste.exe.config
+C:\Users\ariel\source\repos\QueDiaNaciste\bin\Debug\QueDiaNaciste.exe
+C:\Users\ariel\source\repos\QueDiaNaciste\bin\Debug\QueDiaNaciste.pdb
+C:\Users\ariel\source\repos\QueDiaNaciste\obj\Debug\QueDiaNaciste.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\QueDiaNaciste\obj\Debug\QueDiaNaciste.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\QueDiaNaciste\obj\Debug\QueDiaNaciste.exe
+C:\Users\ariel\source\repos\QueDiaNaciste\obj\Debug\QueDiaNaciste.pdb
